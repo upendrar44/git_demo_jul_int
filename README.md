@@ -1,3 +1,3 @@
 # DSML 
 
-This is a project to showcase the power of Git.
+This is a project to showcase the power of Git, GitHub & Version Control.
